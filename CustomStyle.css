@@ -1,0 +1,40 @@
+
+.upper-side{
+    margin: 2px;
+    min-height: 100px;
+    background-color: #010172;
+    /*background-image: url(resources/img/london.jpg);*/
+    
+    
+}
+
+.upper-button{
+     margin-top: 27px;
+    
+    
+}
+.customDiv {
+    margin: 30px;
+    min-height: 30px;
+    background-color: blueviolet;
+    /*background-image: url(resources/img/london.jpg);*/
+    text-align: center;
+    font-size: large;
+    
+}
+.logo {
+    margin-top: 27px;
+    max-height: 30px;
+    max-width: 70px;
+    
+    
+    
+    /*background-image: url(resources/img/london.jpg);*/
+   
+    
+}
+
+.navbar-dark.navba-nav>li>a: {
+    color: yellow;
+}
+
