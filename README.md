@@ -1,4 +1,4 @@
-# IGDB
+# International Game Database-IGDB
 #Website containing a bunch of games and a gaming guide
 
 
